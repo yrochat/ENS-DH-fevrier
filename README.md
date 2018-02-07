@@ -1,4 +1,4 @@
-# ENS-DH-fevrier
+# Visualisations de données avec R (Cours ENS)
 Ceci est un dossier contenant les ressources pour le cours de "Visualisations de données avec R" qui sera donné le 12 février 2018 dans le cadre du [Parcours Humanités Numériques](https://www.facebook.com/phnens/photos/a.537612056631303.1073741828.537604699965372/570158210043354/?type=3&theater).
 
 Voici comment s'en servir.
