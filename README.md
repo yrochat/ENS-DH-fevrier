@@ -1,7 +1,7 @@
 # Visualisations de données avec R (Cours ENS)
 Ceci est un dossier contenant les ressources pour le cours de "Visualisations de données avec R" qui sera donné le 12 février 2018 dans le cadre du [Parcours Humanités Numériques](https://www.facebook.com/phnens/photos/a.537612056631303.1073741828.537604699965372/570158210043354/?type=3&theater).
 
-Voici comment s'en servir.
+Voici comment s'en servir (vous devez avoir au préalable installé [RStudio](https://www.rstudio.com/products/rstudio/download/#download)).
 
 1. Télécharger le dossier [ENS-DH-fevrier](https://github.com/yrochat/ENS-DH-fevrier) à l'aide du bouton "Clone or download", puis en choisissant "Download ZIP".
 2. Ouvrez le dossier sur votre ordinateur, puis
